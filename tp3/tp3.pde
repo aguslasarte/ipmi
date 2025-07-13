@@ -1,3 +1,6 @@
+//Agustin Lasarte
+// https://youtu.be/3_vFxvg7wus
+
 PImage obra;
 
 int filas = 30;
